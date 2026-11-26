@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T17:17:44.061Z",
+  "generated_at": "2026-11-26T16:37:42.527Z",
   "items": {
     "problem:59": {
       "kind": "problem",
@@ -13,6 +13,19 @@
       "last_pushed_at": "2026-11-24T17:17:43.482Z",
       "language": "python",
       "lines": 57
+    },
+    "problem:285": {
+      "kind": "problem",
+      "id": "285",
+      "title": "Decision Tree Pruning with Cost-Complexity",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/285",
+      "path": "problems/0285-decision-tree-pruning-with-cost-complexity",
+      "first_solved_at": "2026-11-26T16:37:42.170Z",
+      "last_pushed_at": "2026-11-26T16:37:42.170Z",
+      "language": "python",
+      "lines": 30
     }
   }
 }
